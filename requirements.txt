@@ -1,0 +1,15 @@
+# Add more or remove these sample requirements
+pandas
+numpy
+ArgumentParser
+os
+cv2 
+VideoReader
+cpu
+imread
+moviepy.editor
+tqdm
+gc
+random
+joblib
+lightgbm

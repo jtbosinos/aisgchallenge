@@ -2,7 +2,7 @@
 pandas
 numpy
 ArgumentParser
-opencv-python==4.4.0.42
+opencv-python
 pyvideoreader
 decord
 imread
